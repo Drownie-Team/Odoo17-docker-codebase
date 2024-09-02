@@ -1,0 +1,10 @@
+# Logs
+logs/
+
+# Config
+config/addons/
+config/filestore/
+config/sessions/
+
+# Custom Addons
+odoo_github/addon_custom
